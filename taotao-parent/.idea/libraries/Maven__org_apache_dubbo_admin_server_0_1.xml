@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache:dubbo-admin-server:0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/dubbo-admin-develop/dubbo-admin-develop/dubbo-admin-server/pom.xml!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/dubbo-admin-develop/dubbo-admin-develop/dubbo-admin-server/dubbo-admin-server-0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/dubbo-admin-develop/dubbo-admin-develop/dubbo-admin-server/dubbo-admin-server-0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
